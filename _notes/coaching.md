@@ -21,6 +21,6 @@ And if you need help with something not mentioned on this website, ask me anyway
 
 And if by any chance I'm not able to help, I'll let you know right away and do my best to point you in the right direction. 
 
-Fill out the [O.E.P.H.R. Coaching Request Form](https://forms.gle/ed3RsocWKYJp7AnJA) to see if you're a good candidate for coaching.
+Fill out the <a href="https://forms.gle/ed3RsocWKYJp7AnJA" target="_blank">O.E.P.H.R. Coaching Request Form</a> to see if you're a good candidate for coaching.
 
-## [O.E.P.H.R. Coaching Request Form](https://forms.gle/ed3RsocWKYJp7AnJA)
+## <a href="https://forms.gle/ed3RsocWKYJp7AnJA" target="_blank">O.E.P.H.R. Coaching Request Form</a>

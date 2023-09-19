@@ -12,7 +12,7 @@ tags:
 ---
 ## Opensource Evolution Protocols for the Human Race
 
-I offer opensource trainings and strategies to aid in the evolution of our species. 
+I offer opensource trainings and strategies to aid in the evolution of our species. That's just a fancy way of saying we have free strategies and techniques to improve mental health and quality of life.
 
 The current project I am working on is modeling mindfulness, meditation, lucid dreaming, and astral projection using the Neurlo-Linguistics Programming (NLP) framework, which I will then integrate with NLP. I expect the results will upgrade a majority of the NLP patterns into more advanced techniques and produce a flavor of NLP which can be learned and practiced completely solo if one chooses. 
 
@@ -28,7 +28,7 @@ If you would like additional help applying any of the strategies or concepts men
 
 ## Mental State of Lucidity
 - [[Consolidating mindfulness, lucid dreaming and astral projection into one framework]]
-- [[Mental State of lucidity]]
+- [[Mental State of Lucidity]]
 - [[Pressing the off-button for mental chatter]]
 
 
@@ -48,13 +48,13 @@ Sensing bio-electricity inside your body
 
 ## Christianity
 
-Does experiencing Astral Projection change your view on Christianity
+[[Does experiencing Astral Projection change your view on Christianity]]
 
 
 # NLP
 
 ## Articles
 
+- [[How mindfulness, lucid dreaming, and astral projection integrates with NLP]]
 - The conscious and subconscious mind distinction is relative to your state
-- How mindfulness, lucid dreaming, and astral projection integrates with NLP
 - The problem has nothing to do with running the wrong program

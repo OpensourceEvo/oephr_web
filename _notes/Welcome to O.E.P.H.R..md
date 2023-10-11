@@ -14,7 +14,7 @@ tags:
 
 I offer opensource trainings and strategies to aid in the evolution of our species. That's just a fancy way of saying we have free strategies and techniques to improve mental health and quality of life.
 
-The current project I am working on is modeling mindfulness, meditation, lucid dreaming, and astral projection using the Neurlo-Linguistics Programming (NLP) framework, which I will then integrate with NLP. I expect the results will upgrade a majority of the NLP patterns into more advanced techniques and produce a flavor of NLP which can be learned and practiced completely solo if one chooses. 
+The current project I am working on is modeling mindfulness, meditation, lucid dreaming, and astral projection using the Neurlo-Linguistics Programming (NLP) framework, which I will then integrate into the traditional NLP training curriculum. I expect the results will upgrade a majority of the NLP patterns into more advanced techniques and produce a flavor of NLP which can be learned and practiced completely solo if one chooses. 
 
 I will be updating this site as I flesh out my model more and make new discoveries or insights. 
 
